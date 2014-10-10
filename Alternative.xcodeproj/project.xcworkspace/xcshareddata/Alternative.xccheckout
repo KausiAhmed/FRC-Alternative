@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2FB22A25-1F4B-4D18-9001-9842AE318BDC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Alternative</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6EE0619B-EBD0-4FBC-90C8-DE8E289C43B8</key>
+		<string>https://github.com/KausiAhmed/FRC-Alternative.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Alternative.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6EE0619B-EBD0-4FBC-90C8-DE8E289C43B8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/KausiAhmed/FRC-Alternative.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6EE0619B-EBD0-4FBC-90C8-DE8E289C43B8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6EE0619B-EBD0-4FBC-90C8-DE8E289C43B8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FRC-Alternative</string>
+		</dict>
+	</array>
+</dict>
+</plist>
