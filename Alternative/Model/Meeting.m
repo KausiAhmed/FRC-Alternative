@@ -12,7 +12,6 @@
 @implementation Meeting
 
 @dynamic sectionIdentifier;
-@dynamic sortyKey;
 @dynamic startDate;
 @dynamic title;
 

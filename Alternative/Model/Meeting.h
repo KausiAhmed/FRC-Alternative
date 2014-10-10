@@ -13,7 +13,6 @@
 @interface Meeting : NSManagedObject
 
 @property (nonatomic, retain) NSString * sectionIdentifier;
-@property (nonatomic, retain) NSNumber * sortyKey;
 @property (nonatomic, retain) NSDate * startDate;
 @property (nonatomic, retain) NSString * title;
 
